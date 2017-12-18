@@ -1,8 +1,9 @@
-# AILearning
+# AILearning （Geekhoo 组织）
 
 `简介：专注于AI领域的资源共享和整合`
 
 * **Geekhoo官方群【248087140】**<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=7b962100378f0edc8896619ccc46ecc66ce1b2c38f0195441550e88095580acd"><img border="0" src="images/MainPage/Geekhoo-group.png" alt="Geekhoo官方群" title="Geekhoo官方群【248087140】"></a>
+* AI = Python + MachineLearning<Sklearn> + DeepLearning<PyTorch> + ..
 
 ## [**初级-Python**](初级-Python)
 
@@ -162,7 +163,7 @@
      - [12.02 一维数据结构：Series](初级-Python/12-pandas/12.02-series-in-pandas.ipynb)
      - [12.03 二维数据结构：DataFrame](初级-Python/12-pandas/12.03-dataframe-in-pandas.ipynb)
 
-## [**中级-MachineLearning**](中级-MachineLearning)
+## [**中级-MachineLearning**](中级-MachineLearning<Sklearn>)
 
 面向基础编程转型做 MachineLearning，请仔细Coding
 
@@ -177,7 +178,7 @@
 | 7」 [集成方法-随机森林、AdaBoost](中级-MachineLearning/docs/7.集成方法-随机森林和AdaBoost.md)
 
 
-##  [**高级-PyTorch**](高级-PyTorch)
+## [**高级-PyTorch**](高级-DeepLearning<PyTorch>)
 
 面向 MachineLearning 转型做 DeepLearning，请仔细Coding
 
@@ -220,3 +221,10 @@
 * [5.4 Batch Normalization 批标准化](http://www.pytorchtutorial.com/5-4-batch-normalization/)
 
 * [查看此套教程完整目录](http://www.pytorchtutorial.com/mofan-pytorch-tutorials-list/)
+
+## Kaggle 项目比赛
+
+| 项目名称 | 文档地址 | 代码地址 | 作者信息 | 更新时间 |
+| :--: | :--: | :--: | :--: | :--: |
+| 手写数字识别 | [文档]() | [代码](/opt/www/AILearning/src/4-kaggle/digit-recognizer/svm-python3.6.py) | [片刻](https://github.com/jiangzhonglian) | 2017-12-16 |
+| 房屋预测 | [文档]() | [代码]() | [忧郁一休](http://blog.csdn.net/youyuyixiu/article/details/72841703) | 2017-12-16 |
