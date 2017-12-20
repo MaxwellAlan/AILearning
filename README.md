@@ -2,11 +2,11 @@
 
 `简介：专注于AI领域的资源共享和整合`
 
-* AI = Python + MachineLearning<Sklearn> + DeepLearning<PyTorch>
 * **Geekhoo官方群【248087140】**<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=7b962100378f0edc8896619ccc46ecc66ce1b2c38f0195441550e88095580acd"><img border="0" src="images/MainPage/Geekhoo-group.png" alt="Geekhoo官方群" title="Geekhoo官方群【248087140】"></a>
+* AI = Python + MachineLearning（Sklearn） + DeepLearning（PyTorch）
 * [推荐：你可能会用到的计算机书籍](docs/main/你可能会用到的计算机书籍.md)
 
-> 学习建议
+> 编码入门-学习建议
 
 ```
 具体的做法：
