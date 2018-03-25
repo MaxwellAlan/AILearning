@@ -2,7 +2,7 @@
 
 `简介：专注于AI领域的资源共享和整合`
 
-* **Geekhoo - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="Geekhoo - 学习机器学习群[629470233]" title="Geekhoo - 学习机器学习群[629470233]"></a>**
+* **Geekhoo - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="images/MainPage/Geekhoo-group.png" alt="Geekhoo - 学习机器学习群[629470233]" title="Geekhoo - 学习机器学习群[629470233]"></a>**
 * [**【干货】机器学习项目流程**](docs/main/机器学习项目流程.md)
 * [推荐：你可能会用到的计算机书籍](docs/main/你可能会用到的计算机书籍.md)
 * AI = Python + MachineLearning（Sklearn） + DeepLearning（PyTorch）
